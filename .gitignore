@@ -1,0 +1,4 @@
+# Sensitive - do not commit
+config.json
+*.p8
+__pycache__/
